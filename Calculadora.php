@@ -4,7 +4,7 @@ class Calculadora
    
 {
     
-    public function soma($x ,$y)
+    public function soma($x ,$y) //tr
     {
         $soma = $x + $y;
         return $soma;
